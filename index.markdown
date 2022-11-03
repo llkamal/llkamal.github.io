@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Welcome!
+
+Use the menu on the left to navigate.
