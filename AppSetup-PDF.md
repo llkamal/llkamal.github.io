@@ -1,7 +1,7 @@
 ---
 title: Application Setup - PDF version
-parent: Introduction
-has_children: true
+parent: Contents
+has_children: false
 nav_order: 2
 layout: post
 categories: training
