@@ -11,9 +11,9 @@ categories: training
 
 ### CONTENTS
 
-- **Location**
-- **Application Configuration**
-- **Lookups**
+  - [Location](#location)
+  - [Application Configuration](#application-configuration)
+  - [Lookps](#lookups)
 
 ____
 
