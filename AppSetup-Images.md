@@ -11,7 +11,6 @@ categories: training
 
 ### CONTENTS
 
-
 - **Location**
 - **Application Configuration**
 - **Lookups**
@@ -113,6 +112,6 @@ _____
 ![Lookups](./assets/setupv1.0/11.png "Lookups")
 
 
-Lookups, as the name suggests they are values that are common at multiple places. These lookup values are referred at multiple master data or transactional data screens so that they appear as dropdown list of values to choose from.
-
-Also for some of these lookups, there is a flexibility of extending the list of values by client as needed.
+- Lookups, as the name suggests they are values that are common at multiple places. 
+- These lookup values are referred at multiple master data or transactional data screens so that they appear as dropdown list of values to choose from.
+- For some of these lookups, there is a flexibility of extending the list of values by client as needed.
