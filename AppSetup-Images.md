@@ -100,8 +100,7 @@ Click on Auto load tab to navigate and configure the options enables automatic l
 - Terms section contains 2 parts, i.e.
   - Term Definition – contains the name and description of the term
   - Term lines definition – Select the term definition to see the details of the term lines
-
-Click on SAVE once the term is defined.
+- Click on SAVE once the term is defined.
 
 _____
 
