@@ -12,5 +12,6 @@ categories: training
 <iframe width="100%" height="800" src="./assets/PETAL - Application Setup V1.0.pdf#toolbar=0">
 
 
+
 Download the document from [here](./assets/PETAL - Application Setup V1.0.pdf)
 
